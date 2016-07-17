@@ -14,5 +14,6 @@ The build example on OS Windows:
 
 "./Main.exe"
 
+The result:
 
-
+![ScreenShot](https://github.com/DarkRiDDeR/mandelbrotin-fractal-generation-NASM/blob/master/result.png?raw=true)
